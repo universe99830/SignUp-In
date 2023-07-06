@@ -1,0 +1,16 @@
+{
+  "fonts": {
+    "primary": {
+      "name": "minion-pro",
+      "weights": [300, 400, 500, 600]
+    },
+    "special": {
+      "name": "sans-serif",
+      "weights": [400]
+    },
+    "btnprimary": {
+      "name": "sans-serif",
+      "weights": [400]
+    }
+  }
+}
